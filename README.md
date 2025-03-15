@@ -52,8 +52,7 @@ The dataset used in this project contains sales transactions with the following 
 ## **📌 How to Run the Project?**  
 1️⃣ **Clone the repository**:  
 ```bash
-git clone https://github.com/koushik369mondal/EDA-Sales-Data.git
-cd EDA-Sales-Data
+git clone https://github.com/Aditya-10-Singh/PythonProjectAceAcademy.git
 ```
 2️⃣ **Install required libraries**:  
 ```bash
