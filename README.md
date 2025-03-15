@@ -75,4 +75,15 @@ The full project report with insights and visualizations is available here:
 
 ## **📎 Submission Details**  
 - **GitHub Repository**: 🔗 [EDA-Sales Data](https://github.com/Aditya-10-Singh/PythonProjectAceAcademy.git)  
-- **Project Report (PDF)**: 📄 [Google Drive Report](https://drive.google.com/file/d/1LIMjtlfqezK9uFTYaGJDgAAkOBwVxA2p/view?usp=drivesdk)  
+- **Project Report (PDF)**: 📄 [Google Drive Report](https://drive.google.com/file/d/1LIMjtlfqezK9uFTYaGJDgAAkOBwVxA2p/view?usp=drivesdk)
+
+---
+
+## 📬 Contact
+- **Author:** Aditya Singh
+- **Email:** adityasingh00552@gmail.com
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/aditya-singh-1b7243291)
+
+---
+**🚀 Let's Analyze and Optimize Sales Performance!**
+
