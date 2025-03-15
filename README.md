@@ -35,9 +35,9 @@ The dataset used in this project contains sales transactions with the following 
 ---
 
 ## **📊 Key Findings**  
-🔹 **Sales peak in December**, indicating strong seasonal trends.  
+🔹 **Sales peak in August**, indicating strong seasonal trends.  
 🔹 **Top-performing products** include high-value electronics.  
-🔹 **The USA & Canada** contribute the most sales.  
+🔹 **The USA & Spain** contribute the most sales.  
 🔹 **Weekends show lower sales**, suggesting a working-day preference.  
 
 ---
