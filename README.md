@@ -69,10 +69,10 @@ jupyter notebook
 
 ## **📄 Project Report**  
 The full project report with insights and visualizations is available here:  
-📌 **[Google Drive Report](https://drive.google.com/file/d/1-131yUtFqkCh-v7SvFZ_KEjmZ_vEOZrr/view?usp=sharing)**  
+📌 **[Google Drive Report](https://drive.google.com/file/d/1LHDdg76cu0M-7574vvL_Isp93CeO12Ob/view?usp=drivesdk)**  
 
 ---
 
 ## **📎 Submission Details**  
 - **GitHub Repository**: 🔗 [EDA-Sales Data](https://github.com/Aditya-10-Singh/PythonProjectAceAcademy.git)  
-- **Project Report (PDF)**: 📄 [Google Drive Report](https://drive.google.com/file/d/1-131yUtFqkCh-v7SvFZ_KEjmZ_vEOZrr/view?usp=sharing)  
+- **Project Report (PDF)**: 📄 [Google Drive Report](https://drive.google.com/file/d/1LHDdg76cu0M-7574vvL_Isp93CeO12Ob/view?usp=drivesdk)  
