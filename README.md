@@ -6,6 +6,23 @@ This project performs **Exploratory Data Analysis on Sales Data** to uncover key
 
 ---
 
+## **📋 Tasks**  
+✅ **Load and Clean the Sales Dataset**  
+- Import the sales dataset using pandas.  
+- Handle missing values and inconsistencies.  
+
+✅ **Perform Summary Statistics and Exploratory Analysis**  
+- Compute mean, median, mode, and standard deviation for relevant columns.  
+
+✅ **Visualize Key Metrics**  
+- Create visualizations to highlight sales trends over time.  
+- Analyze seasonal patterns and top-performing products.  
+
+✅ **Document Insights**  
+- Summarize findings, including trends, seasonal variations, and product performance.  
+
+---
+
 ## **📂 Dataset Information**  
 The dataset used in this project contains sales transactions with the following key columns:  
 - **`orderdate`** → Date of the order  
@@ -13,16 +30,6 @@ The dataset used in this project contains sales transactions with the following 
 - **`productline`** → Product category  
 - **`country`**, **`city`** → Geographical data  
 - **`quantityordered`**, **`priceeach`** → Sales details  
-
----
-
-## **📌 Project Goals**  
-✅ Load & clean the dataset (handle missing values, duplicates, and formatting)  
-✅ Perform **summary statistics** to understand the data  
-✅ Analyze **sales trends** over time  
-✅ Identify **top-performing products** and **regional sales distributions**  
-✅ **Visualize key metrics** with plots and graphs  
-✅ Document findings and **generate insights**  
 
 ---
 
