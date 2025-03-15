@@ -1,103 +1,71 @@
-# PythonProjectAceAcademy
-# 📊 Sales Analysis Project
 
-## 📌 Overview
-This project analyzes a sales dataset to uncover trends, seasonal patterns, and key performance metrics. The goal is to identify factors affecting sales performance, including top-performing products and seasonal variations.
+# **📊 Exploratory Data Analysis (EDA) on Sales Data**  
 
-## 📂 Dataset
-- **Dataset Name:** Sales Data
-- **Source:** [Google Drive Link](https://drive.google.com/file/d/19IorVDtgOC1n9k5PzcZwpb_9vIimFMui/view)
-- **Format:** CSV
-- **Attributes:** 
-  - Date
-  - Product Name
-  - Category
-  - Sales Amount
-  - Quantity Sold
-  - Region
-  - Customer Type
+## **📌 Project Overview**  
+This project performs **Exploratory Data Analysis (EDA) on Sales Data** to uncover key trends, patterns, and insights. We analyze **sales performance, seasonal variations, and top-performing products** using Python and data visualization techniques.  
 
-## 🛠️ Project Structure
-```
-📂 sales-analysis-project
-│── 📜 README.md            # Project documentation
-│── 📜 sales_analysis.ipynb  # Jupyter Notebook for analysis
-│── 📜 sales_report.pdf      # Summary of findings
-│── 📜 sales_report.md       # Report in Markdown
-│── 📜 cleaned_sales_data.csv # Cleaned dataset
-│── 📂 images                # Visualizations
-│   ├── sales_trend.png      # Sales trends over time
-│   ├── top_products.png     # Top-performing products
-│   ├── seasonal_trend.png   # Seasonal variations
-```
+---
 
-## 🔧 Setup & Installation
-### 1️⃣ Clone the Repository
+## **📂 Dataset Information**  
+The dataset used in this project contains sales transactions with the following key columns:  
+- **`orderdate`** → Date of the order  
+- **`sales`** → Total sales amount  
+- **`productline`** → Product category  
+- **`country`**, **`city`** → Geographical data  
+- **`quantityordered`**, **`priceeach`** → Sales details  
+
+---
+
+## **📌 Project Goals**  
+✅ Load & clean the dataset (handle missing values, duplicates, and formatting)  
+✅ Perform **summary statistics** to understand the data  
+✅ Analyze **sales trends** over time  
+✅ Identify **top-performing products** and **regional sales distributions**  
+✅ **Visualize key metrics** with plots and graphs  
+✅ Document findings and **generate insights**  
+
+---
+
+## **🛠️ Technologies Used**  
+- **Python** (pandas, numpy) → Data handling & cleaning  
+- **Matplotlib & Seaborn** → Data visualization  
+- **Plotly** → Interactive charts  
+- **Jupyter Notebook** → Running the analysis  
+
+---
+
+## **📊 Key Findings**  
+🔹 **Sales peak in December**, indicating strong seasonal trends.  
+🔹 **Top-performing products** include high-value electronics.  
+🔹 **The USA & Canada** contribute the most sales.  
+🔹 **Weekends show lower sales**, suggesting a working-day preference.  
+
+---
+
+## **📌 How to Run the Project?**  
+1️⃣ **Clone the repository**:  
 ```bash
-git clone https://github.com/YOUR_USERNAME/sales-analysis-project.git
-cd sales-analysis-project
+git clone https://github.com/koushik369mondal/EDA-Sales-Data.git
+cd EDA-Sales-Data
 ```
-
-### 2️⃣ Install Dependencies
+2️⃣ **Install required libraries**:  
 ```bash
-pip install pandas numpy matplotlib seaborn
+pip install pandas numpy matplotlib seaborn plotly
 ```
-
-### 3️⃣ Open Jupyter Notebook
+3️⃣ **Run the Jupyter Notebook**:  
 ```bash
 jupyter notebook
 ```
-
-## 🚀 Steps in Analysis
-### 1️⃣ Load and Clean Data
-- Import dataset using `pandas`.
-- Handle missing values and inconsistencies.
-
-### 2️⃣ Exploratory Data Analysis (EDA)
-- Compute summary statistics: Mean, Median, Mode, Standard Deviation.
-- Check data distribution and outliers.
-
-### 3️⃣ Data Visualization
-- **Sales Trends:** Line plot of sales over time.
-- **Top Products:** Bar chart of best-selling products.
-- **Seasonal Patterns:** Monthly/quarterly sales variations.
-
-### 4️⃣ Insights & Findings
-- Identified peak sales months.
-- Top-performing products and categories.
-- Sales performance across regions.
-
-## 📊 Results
-### 🔹 Key Trends
-- Sales show a strong seasonal pattern, peaking in Q4.
-- Electronics category contributes the highest revenue.
-- Discounts positively impact sales volume but reduce profit margins.
-
-### 📌 Visualizations
-| 📈 Chart | Description |
-|---|---|
-| ![Sales Trends](images/sales_trend.png) | Monthly sales performance |
-| ![Top Products](images/top_products.png) | Best-selling products |
-| ![Seasonal Trends](images/seasonal_trend.png) | Sales variations by season |
-
-## 📑 Submission Details
-- **GitHub Repository:** [Repo Link](https://github.com/YOUR_USERNAME/sales-analysis-project)
-- **Report (Google Drive):** [Report Link](https://drive.google.com/YOUR_REPORT_LINK)
-
-## 📜 License
-This project is open-source and available under the MIT License.
-
-## 💡 Future Improvements
-- Integrate predictive modeling for sales forecasting.
-- Develop an interactive dashboard using `Streamlit` or `Plotly`.
-
-## 🤝 Contributing
-Feel free to fork this repository, create a branch, and submit a pull request.
-
-## 📬 Contact
-- **Author:** Alo
-- **Email:** alo@example.com
-- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/YOUR_PROFILE)
+4️⃣ Open **`sales_analysis.ipynb`** and run the cells.  
 
 ---
-**🚀 Let's Analyze and Optimize Sales Performance!**
+
+## **📄 Project Report**  
+The full project report with insights and visualizations is available here:  
+📌 **[Google Drive Report](https://drive.google.com/file/d/1-131yUtFqkCh-v7SvFZ_KEjmZ_vEOZrr/view?usp=sharing)**  
+
+---
+
+## **📎 Submission Details**  
+- **GitHub Repository**: 🔗 [EDA-Sales-Data](https://github.com/koushik369mondal/EDA-Sales-Data.git)  
+- **Project Report (PDF)**: 📄 [Google Drive Report](https://drive.google.com/file/d/1-131yUtFqkCh-v7SvFZ_KEjmZ_vEOZrr/view?usp=sharing)  
