@@ -1,8 +1,8 @@
 
-# **📊 Exploratory Data Analysis (EDA) on Sales Data**  
+# **Exploratory Data Analysis on Sales Data**  
 
 ## **📌 Project Overview**  
-This project performs **Exploratory Data Analysis (EDA) on Sales Data** to uncover key trends, patterns, and insights. We analyze **sales performance, seasonal variations, and top-performing products** using Python and data visualization techniques.  
+This project performs **Exploratory Data Analysis on Sales Data** to uncover key trends, patterns, and insights. We analyze **sales performance, seasonal variations, and top-performing products** using Python and data visualization techniques. 
 
 ---
 
