@@ -73,5 +73,5 @@ The full project report with insights and visualizations is available here:
 ---
 
 ## **📎 Submission Details**  
-- **GitHub Repository**: 🔗 [EDA-Sales-Data](https://github.com/koushik369mondal/EDA-Sales-Data.git)  
+- **GitHub Repository**: 🔗 [EDA-Sales Data](https://github.com/Aditya-10-Singh/PythonProjectAceAcademy.git)  
 - **Project Report (PDF)**: 📄 [Google Drive Report](https://drive.google.com/file/d/1-131yUtFqkCh-v7SvFZ_KEjmZ_vEOZrr/view?usp=sharing)  
