@@ -34,9 +34,10 @@ The dataset used in this project contains sales transactions with the following 
 ---
 
 ## **🛠️ Technologies Used**  
-- **Python** (pandas, numpy) → Data handling & cleaning  
-- **Matplotlib & Seaborn** → Data visualization  
-- **Plotly** → Interactive charts  
+- **pandas** → For data manipulation and analysis
+- **numpy** → For numerical computations
+- **matplotlib** → For creating visualizations
+- **seaborn** → For statistical data visualization 
 - **Jupyter Notebook** → Running the analysis  
 
 ---
